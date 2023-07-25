@@ -8,7 +8,7 @@ Le code doit respecter la Norme imposée par 42 (voir pdf).
 
 __Comment tester le programme__ ?
 
-* Exécuter la commande "gcc main.c get_next_line.c get_next_line_utils.c”
+* Exécuter la commande `gcc main.c get_next_line.c get_next_line_utils.c`
 * Créer un fichier (par exemple test.txt) et remplissez le de phrases
 * Exécuter la commande “./a.out test.txt”
 
