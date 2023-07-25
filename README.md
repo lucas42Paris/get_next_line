@@ -12,7 +12,7 @@ __Comment tester le programme__ ?
 * Créer un fichier (par exemple test.txt) et remplissez le de phrases
 * Exécuter la commande `./a.out test.txt`
 
-__Notions importantes__ :
+__Compétences acquises__ :
 
 * Utilisation des variables statiques
 * Interaction avec des descripteurs de fichiers
@@ -29,7 +29,7 @@ __How to test the program__?
 * Create a file (eg test.txt) and fill it with sentences
 * Run the command `./a.out test.txt`
 
-__Important Notions__:
+__Acquired skills__:
 
 * Using static variables
 * Interaction with file descriptors
