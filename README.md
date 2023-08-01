@@ -17,7 +17,7 @@ __Compétences acquises__ :
 * Utilisation des variables statiques
 * Interaction avec des descripteurs de fichiers
 
-🇬🇧
+🇺🇸
 
 The get_next_line project consists of creating a function capable of reading a line from a file descriptor.
 
