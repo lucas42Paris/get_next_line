@@ -8,13 +8,13 @@ Le code doit respecter la Norme imposée par 42 (voir pdf).
 
 __Notions importantes__ :
 
-* Utilisation des variables statiques
-* Interaction avec des descripteurs de fichiers
+* Utilisation des variables statiques.
+* Interaction avec des descripteurs de fichiers.
 
 __Comment tester le programme__ ?
 
-* Exécuter la commande `gcc main.c get_next_line.c get_next_line_utils.c`
-* Créer un fichier (par exemple test.txt) et remplissez le de phrases
+* Exécuter la commande `gcc main.c get_next_line.c get_next_line_utils.c` à la racine du répertoire.
+* Créer un fichier (par exemple test.txt) et remplissez le de caractères.
 * Exécuter la commande `./a.out test.txt`
 
 🇺🇸
@@ -30,8 +30,8 @@ __Important concepts__:
 
 __How to test the program__?
 
-* Execute command `gcc main.c get_next_line.c get_next_line_utils.c`
-* Create a file (eg test.txt) and fill it with sentences
+* Execute command `gcc main.c get_next_line.c get_next_line_utils.c` at the root of the directory.
+* Create a file (eg test.txt) and fill it with characters.
 * Run the command `./a.out test.txt`
 
 ![Rating](rating.png)
