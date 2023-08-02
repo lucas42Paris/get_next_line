@@ -2,7 +2,7 @@
 
 🇫🇷
 
-Le projet "get_next_line" consiste à créer une fonction capable de lire une ligne à partir d'un descripteur de fichier.
+Le projet get_next_line consiste à créer une fonction capable de lire une ligne à partir d'un descripteur de fichier.
 
 Le code doit respecter la Norme imposée par 42 (voir pdf).
 
@@ -19,7 +19,7 @@ __Compétences acquises__ :
 
 🇺🇸
 
-The "get_next_line" project consists of creating a function capable of reading a line from a file descriptor.
+The get_next_line project consists of creating a function capable of reading a line from a file descriptor.
 
 The code must respect the Norm imposed by 42 (see pdf).
 
